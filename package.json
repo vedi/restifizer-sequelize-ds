@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "http-statuses": "~0.1.x",
-    "lodash": "~2.4.1"
+    "lodash": "~3.10.1"
   },
   "author": {
     "name": "Fedor Shubin"
