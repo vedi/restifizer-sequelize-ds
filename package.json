@@ -1,6 +1,6 @@
 {
   "name": "restifizer-sequelize-ds",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Sequelize Data Source for Restifizer",
   "main": "index.js",
   "scripts": {
